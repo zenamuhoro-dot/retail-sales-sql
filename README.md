@@ -12,7 +12,7 @@ management should do.
 | `schema.sql` | `CREATE TABLE` statements for `customers` and `orders` |
 | `queries.sql` | All 46 answers, numbered `-- Q1` … `-- Q46` |
 | `insights.md` | Business insights with the numbers, why they matter, and recommendations |
-| `screenshots/` | `05_verify_data.sql` output and selected query results |
+| `screenshots/` | `05_verify_data.sql` output and selected query results (named by question, e.g. `q33_category_profit_margin.png` is Q33) |
 
 ## How to set it up (DBeaver)
 
